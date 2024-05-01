@@ -1,0 +1,10 @@
+﻿# Ignore Everything
+*
+
+# Except these files
+!*.cs
+!.gitignore
+!./Ui
+!./Backend
+!.CliTool.csproj
+!.gitattributes
