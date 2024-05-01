@@ -4,7 +4,7 @@
 # Except these files
 !*.cs
 !.gitignore
-!./Ui
-!./Backend
+!/Ui/
+!/Backend/
 !.CliTool.csproj
 !.gitattributes
